@@ -1,2 +1,2 @@
-# TestingPrivate
-Testing options for private repositories
+# Testing
+Testing options 
